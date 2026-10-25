@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Lintel has moved to [Mullion](https://github.com/Aduneer/Mullion)**, with Oriel and Fanlight:
+> [Lintel's README](https://github.com/Aduneer/Mullion/tree/main/apps/lintel) and its
+> [releases](https://github.com/Aduneer/Mullion/releases/latest) are there now, and new issues
+> and ideas go there too. Every Mullion release still has Lintel's own installer and portable zip.
+> This repo is archived; its history is in Mullion's, under `apps/lintel`.
+
 <div align="center">
 
 <picture>
